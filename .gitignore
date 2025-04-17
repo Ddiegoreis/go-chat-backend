@@ -1,0 +1,26 @@
+# Go binaries
+/bin/
+/tmp/
+
+# Go workspace
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+/vendor/
+
+# IDE and editor files
+*.idea/
+*.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Go test files
+*.test
